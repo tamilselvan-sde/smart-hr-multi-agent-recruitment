@@ -3,7 +3,7 @@
 **SmartHR** is a multi-agent AI system that automates CV analysis and candidate evaluation. It extracts personal data, qualifications, and summaries, then scores candidates based on job criteria. Built using [n8n](https://n8n.io), SmartHR streamlines hiring workflows and integrates easily with Google Sheets and HR tools.
 
 ---
-## Vidio URL :
+## Video URL :
 https://drive.google.com/file/d/1BzAmEJsL6MLM6KhpmIeOAD6vdgFU2fEJ/view?usp=sharing
 ## 📄 Project Description
 
